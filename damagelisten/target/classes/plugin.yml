@@ -1,0 +1,9 @@
+name: damagelisten
+version: '1.0-SNAPSHOT'
+main: me.chengzi.damagelisten.Damagelisten
+
+
+commands:
+  Damagelisten:
+    description: 使用/damagelisten reload重载 Damagelisten 插件的配置
+    usage: /<command> reload
